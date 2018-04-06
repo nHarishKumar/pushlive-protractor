@@ -1,0 +1,27 @@
+{
+    "testCase1":
+    {
+        "dataSet1":
+        {
+            "email": "sysadmin@pushlive.com",
+            "password": "Password1"
+        },
+        "dataSet2":
+        {
+            "email": "officemanagertest@gmail.com",
+            "password": "Password1"
+        }    },
+    "testCase2":
+    {
+        "dataSet3":
+        {
+            "email": "floorssupervisor@pushlive.com",
+            "password": "Password1"
+        },
+        "dataSet4":
+        {
+            "email": "teamleads@pushlive.com",
+            "password": "Password1"
+        }
+    }
+}
