@@ -1,2 +1,2 @@
 # pushlive-protractor
-Pushlive Application - Protractor Automation Framework
+Pushlive Application - Protractor Automation Jasmine-Framework
