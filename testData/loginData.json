@@ -1,0 +1,10 @@
+{
+    "url": "http://customercarecrm-dev.pushinnovationlive.com/",
+     
+    "title": "sso",
+    "userName": "alexom@pushlive.com",
+    "password": "Password1",
+    "errorMsg": "Email and password are not registered with the system",
+    "emErrorMsg":"Enter a valid email address",
+    "pswdErrorMsg" : "Enter password"
+}

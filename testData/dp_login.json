@@ -1,0 +1,29 @@
+{
+    "testCase1":
+    {
+        "SysAdmin":
+        {
+            "email": "tuann@pushinnovation.com",
+            "password": "Password1"
+        },
+        "OfficeManager":
+        {
+            "email": "purandharbibaseit.co.in",
+            "password": "Password1",
+            "emErrorMsg" : "Enter a valid email"
+        },
+        "FloorSupervisor":
+        {
+            "email": "testfsone@pushlive.com",
+            "password": "Password1"
+        },
+        "TeamLead":
+        {
+            "email": "testtlone@pushlive.com",
+            "password": "Password1"
+        }
+
+    }
+
+
+}
